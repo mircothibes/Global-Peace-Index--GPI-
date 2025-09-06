@@ -20,3 +20,14 @@ The final part of the code defines the callback function that updates the map an
 The code is well-organized and easy to follow. It uses a variety of libraries to create a visually appealing and informative app. The app is a valuable tool for understanding the safety of countries around the world.
 
 Additionally, you can change the theme button to white or black and view the DataMind company logo. There is also a "visit the webpage" phrase that you can click on to open the DataMind website.
+
+---
+
+## Autor
+
+Desenvolvido por Marcos Vinicius Thibes Kemer
+
+---
+
+
+
